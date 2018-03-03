@@ -62,7 +62,7 @@ print("Training cost=", training_cost, "W=", sess.run(w), "b=", sess.run(b), '\n
 
 # Testing or Inference
 test_X = np.asarray([rng.randn(),rng.randn()])
-test_Y = 2*test_X + 4
+test_Y = 4*test_X + 6
 
 print("Testing... (Mean square loss Comparison)")
 
