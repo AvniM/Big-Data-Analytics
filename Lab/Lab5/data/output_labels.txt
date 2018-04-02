@@ -1,3 +1,4 @@
-roses
-sunflowers
-tulips
+kitchen
+bedroom
+living
+bathroom
